@@ -35,9 +35,8 @@ superbad = media.Movie(
     "Superbad",
     "Two co-dependent high school seniors are forced to deal with separation "
     "anxiety after their plan to stage a booze-soaked party goes awry.",
-    "https://upload.wikimedia.org/wikipedia/en/8/8b/Superbad_Poster.png", #NOQA
-    "https://www.youtube.com/watch?v=4eaZ_48ZYog") #NOQA
-
+    "https://upload.wikimedia.org/wikipedia/en/8/8b/Superbad_Poster.png",
+    "https://www.youtube.com/watch?v=4eaZ_48ZYog")
 # Dark Knight: movie title, storyline, poster image and movie trailer
 dark_knight = media.Movie(
     "The Dark Knight",
@@ -45,7 +44,7 @@ dark_knight = media.Movie(
     "he wreaks havoc and chaos on the people of Gotham, the Dark Knight must "
     "accept one of the greatest psychological and physical "
     "tests of his ability to fight injustice.",
-    "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg", #NOQA
+    "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
     "https://www.youtube.com/watch?v=kmJLuwP3MbY") #NOQA
 
 # Anchorman: movie title, storyline, poster image and movie trailer
@@ -55,15 +54,15 @@ anchorman = media.Movie(
     "broadcasting of the 1970s, but that's all about to change for Ron and "
     "his cronies when an ambitious woman is hired as a new anchor.",
     "https://upload.wikimedia.org/wikipedia/en/6/64/Movie_poster_Anchorman_The_Legend_of_Ron_Burgundy.jpg", #NOQA
-    "https://www.youtube.com/watch?v=-T3wnP91OnI") #NOQA
+    "https://www.youtube.com/watch?v=-T3wnP91OnI")
 
 # The Big Lebowski: movie title, storyline, poster image and movie trailer
 the_big_lebowski = media.Movie(
     "The Big Lebowski",
     "The Dude, mistaken for a millionaire Lebowski, seeks restitution "
     "for his ruined rug and enlists his bowling buddies to help get it.",
-    "https://upload.wikimedia.org/wikipedia/en/3/35/Biglebowskiposter.jpg", #NOQA
-    "https://www.youtube.com/watch?v=cd-go0oBF4Y") #NOQA
+    "https://upload.wikimedia.org/wikipedia/en/3/35/Biglebowskiposter.jpg",
+    "https://www.youtube.com/watch?v=cd-go0oBF4Y")
 
 # Grand Budapest Hotel: movie title, storyline, poster image and movie trailer
 grand_budapest_hotel = media.Movie(
@@ -73,7 +72,7 @@ grand_budapest_hotel = media.Movie(
     "between the first and second World Wars, and Zero Moustafa, "
     "the lobby boy who becomes his most trusted friend.",
     "https://upload.wikimedia.org/wikipedia/en/a/a6/The_Grand_Budapest_Hotel_Poster.jpg", #NOQA
-    "https://www.youtube.com/watch?v=1Fg5iWmQjwk") #NOQA
+    "https://www.youtube.com/watch?v=1Fg5iWmQjwk")
 
 # The Big Sick: movie title, storyline, poster image and movie trailer
 the_big_sick = media.Movie(
@@ -82,8 +81,8 @@ the_big_sick = media.Movie(
     "in love but struggle as their cultures clash. When Emily contracts a "
     "mysterious illness, Kumail finds himself forced to face her feisty parents, "
     "his family's expectations, and his true feelings.",
-    "https://upload.wikimedia.org/wikipedia/en/6/69/The_Big_Sick.jpg", #NOQA
-    "https://www.youtube.com/watch?v=PJmpSMRQhhs") #NOQA
+    "https://upload.wikimedia.org/wikipedia/en/6/69/The_Big_Sick.jpg",
+    "https://www.youtube.com/watch?v=PJmpSMRQhhs")
 
 # Seven: movie title, storyline, poster image and movie trailer
 seven = media.Movie(
@@ -91,7 +90,7 @@ seven = media.Movie(
     "Two detectives, a rookie and a veteran, hunt a serial killer who uses the "
     "seven deadly sins as his motives.",
     "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg", #NOQA
-    "https://www.youtube.com/watch?v=znmZoVkCjpI") #NOQA
+    "https://www.youtube.com/watch?v=znmZoVkCjpI")
 
 # Silence of the Lambs: movie title, storyline, poster image and movie trailer
 silence_of_the_lambs = media.Movie(
@@ -100,17 +99,17 @@ silence_of_the_lambs = media.Movie(
     "manipulative cannibal killer to help catch another serial killer, "
     "a madman who skins his victims.",
     "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg", #NOQA
-    "https://www.youtube.com/watch?v=ZWCAf-xLV2k") #NOQA
+    "https://www.youtube.com/watch?v=ZWCAf-xLV2k")
 
 # Godfather: movie title, storyline, poster image and movie trailer
 godfather = media.Movie(
     "The Godfather",
     "The aging patriarch of an organized crime dynasty transfers control "
     "of his clandestine empire to his reluctant son.",
-    "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg", #NOQA
-    "https://www.youtube.com/watch?v=sY1S34973zA") #NOQA
+    "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+    "https://www.youtube.com/watch?v=sY1S34973zA")
 
-# List of movies for fresh_tomatoes file
+# List of movies for fresh_tomatoes function
 movies =[there_will_be_blood,
         pulp_fiction,
         caddyshack,
