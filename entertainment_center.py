@@ -11,7 +11,7 @@ there_will_be_blood = media.Movie(
     "focusing on a turn-of-the-century prospector "
     "in the early days of the business.",
     "https://upload.wikimedia.org/wikipedia/en/d/da/There_Will_Be_Blood_Poster.jpg", #NOQA
-    "https://www.youtube.com/watch?v=FeSLPELpMeM") #NOQA
+    "https://www.youtube.com/watch?v=FeSLPELpMeM")
 
 # Pulp Fiction: movie title, storyline, poster image and movie trailer
 pulp_fiction = media.Movie(
@@ -20,15 +20,15 @@ pulp_fiction = media.Movie(
     "and a pair of diner bandits intertwine in "
     "four tales of violence and redemption.",
     "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg", #NOQA
-    "https://www.youtube.com/watch?v=s7EdQ4FqbhY") #NOQA
+    "https://www.youtube.com/watch?v=s7EdQ4FqbhY")
 
 # Caddyshack: movie title, storyline, poster image and movie trailer
 caddyshack = media.Movie(
     "Caddyshack",
     "An exclusive golf course has to deal with a brash "
     "new member and a destructive dancing gopher.",
-    "https://upload.wikimedia.org/wikipedia/en/8/84/Caddyshack_poster.jpg", #NOQA
-    "https://www.youtube.com/watch?v=x9Nl39uWEYk") #NOQA
+    "https://upload.wikimedia.org/wikipedia/en/8/84/Caddyshack_poster.jpg",
+    "https://www.youtube.com/watch?v=x9Nl39uWEYk")
 
 # Superbad: movie title, storyline, poster image and movie trailer
 superbad = media.Movie(
@@ -37,7 +37,7 @@ superbad = media.Movie(
     "anxiety after their plan to stage a booze-soaked party goes awry.",
     "https://upload.wikimedia.org/wikipedia/en/8/8b/Superbad_Poster.png",
     "https://www.youtube.com/watch?v=4eaZ_48ZYog")
-    
+
 # Dark Knight: movie title, storyline, poster image and movie trailer
 dark_knight = media.Movie(
     "The Dark Knight",
@@ -46,7 +46,7 @@ dark_knight = media.Movie(
     "accept one of the greatest psychological and physical "
     "tests of his ability to fight injustice.",
     "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
-    "https://www.youtube.com/watch?v=kmJLuwP3MbY") #NOQA
+    "https://www.youtube.com/watch?v=kmJLuwP3MbY") 
 
 # Anchorman: movie title, storyline, poster image and movie trailer
 anchorman = media.Movie(
