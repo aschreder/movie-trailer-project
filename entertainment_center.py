@@ -37,6 +37,7 @@ superbad = media.Movie(
     "anxiety after their plan to stage a booze-soaked party goes awry.",
     "https://upload.wikimedia.org/wikipedia/en/8/8b/Superbad_Poster.png",
     "https://www.youtube.com/watch?v=4eaZ_48ZYog")
+    
 # Dark Knight: movie title, storyline, poster image and movie trailer
 dark_knight = media.Movie(
     "The Dark Knight",
