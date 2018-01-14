@@ -2,7 +2,8 @@ import webbrowser
 
 
 class Movie():
-    # creates the movie class
+    # creates the movie class with variables: movie_title, movie_storyline,
+    # poster_image, and trailer_youtube
     def __init__(
             self,
             movie_title,
@@ -10,6 +11,8 @@ class Movie():
             poster_image,
             trailer_youtube):
 
+    # constructor stores strings as title and storyline and
+    # urls as poster_image_url and trailer_youtube_url
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
